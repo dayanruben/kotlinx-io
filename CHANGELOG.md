@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 0.9.1
+> Published 26 June 2026
+
+### Features
+- Dropped an old workaround for unsupported Android version [#508](https://github.com/Kotlin/kotlinx-io/pull/508)
+- Reimplemented module loading for WasmJs [#506](https://github.com/Kotlin/kotlinx-io/pull/506)
+
 ## 0.9.0
 > Published 20 February 2026
 
